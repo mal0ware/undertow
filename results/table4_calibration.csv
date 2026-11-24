@@ -1,0 +1,3 @@
+requote_s,A_per_s,k_per_usdt,fit_r2,sigma_usdt_per_sqrt_s,tau_s,calibration_hours,test_hours
+1,0.469143,0.202,0.661121,7.29317,4.14673,24,96
+0.1,0.880722,0.342791,0.819018,6.4175,1.85974,24,96
